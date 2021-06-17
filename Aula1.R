@@ -17,5 +17,5 @@ dim(retorno) # Quantidade de linhas (dimensão) do vetor.
 
 plot(retorno, main = "Retorno da PETR3.SA")
 mean(retorno) # Média do retorno, assim como calculado no Excel
-sd(retorno) # Desvio padrão do retorno da ação
+sd(retorno) # Desvio padrão do retorno da ação (risco)
 var(retorno) # Variância do retorno da ação
